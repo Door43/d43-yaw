@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[yaw:home|Door43 (yaw)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-yaw|d43-yaw repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-yaw/archive/master.zip|d43-yaw.zip]]
+
+**Recent Changes**
+{{changes>ns = yaw}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/yaw|Ethnologue data]]
+
